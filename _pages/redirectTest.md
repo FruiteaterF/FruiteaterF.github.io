@@ -1,5 +1,6 @@
 ---
-layout: default
-permalink: /redirectTest.md
+permalink: "/about/"
+layout: page
+title:  "Redirection"
 ---
-This is a test
+This is a redirect
