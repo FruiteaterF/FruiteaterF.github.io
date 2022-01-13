@@ -5,3 +5,11 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 pages: ./_static_pages
+include:
+- _pages
+defaults:
+- scope
+  path:   "_pages"
+  type:   "pages"
+  values:
+  permalink: /:basename/
