@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[click here](./redirectTest.md)
+[click here](./_pages_redirectTest.md)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
