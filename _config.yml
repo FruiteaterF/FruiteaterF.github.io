@@ -5,4 +5,4 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 pages: ./_static_pages
-include:["_pages"]
+include:- _pages
