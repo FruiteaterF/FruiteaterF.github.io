@@ -1,4 +1,4 @@
-# FruiteaterF.github.io
-Personal Website to track specific resources on friends requests
-or for certain communities and video gameplay systems that interest me.
-Project is in it's infancy.
+Personal website to use as an information resource for specific things.
+Site under construction.
+
+**https://fruiteaterf.github.io/**
