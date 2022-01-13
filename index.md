@@ -2,6 +2,7 @@
 layout: default
 ---
 
+{% post_url /redirectTest.md %}
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
