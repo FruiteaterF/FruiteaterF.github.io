@@ -1,15 +1,25 @@
 <!DOCTYPE html>
-<html>
+<html lang="en" id="htmlbody">
 <head>
-<title>
-	<h1>Personal Information Game Database</h1>
-</title>
-<Script>
-	window.open("fruiteaterf.github.io","_self");
-</Script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loading...</title>
 </head>
 <body>
-	<h2 Redirecting, please wait! </h2>
-	</a>
+    <script>
+        var doc = document.getElementById('htmlbody');
+        xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function() {
+            if (this.readyState == 4) {
+                if (this.status == 200) {
+                    doc.innerHTML = this.responseText;
+                    doc.removeAttribute("id");
+                }
+                if (this.status == 404) doc.innerHTML = "Page not found.";
+            }
+        }
+        xhttp.open("GET", "index.html", true);
+        xhttp.send();
+    </script>
 </body>
 </html>
