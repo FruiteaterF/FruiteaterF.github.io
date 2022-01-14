@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[click here](pages/test.md)
+[click here](_pages/test.md)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
