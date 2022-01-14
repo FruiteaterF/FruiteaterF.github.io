@@ -1,7 +1,7 @@
 ---
-permalink: /test/
-layout: page
-title:  test
+layout: directory
+title: About
+permalink: pages/
 ---
 This is a redirect
 
