@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Test
 ---
 This is a redirect
