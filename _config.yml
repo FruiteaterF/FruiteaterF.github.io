@@ -5,10 +5,7 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 permalink: pretty
-pages: ./_static_pages
-include:- _pages
-plugins:
-  - jekyll-relative-links
+plugins:- jekyll-relative-links
 collections:
   pages:
     permalink: /:collection/:name/
