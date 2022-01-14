@@ -1,5 +1,5 @@
 ---
-permalink: /test.html
+permalink: /test.md
 layout: page
 title:  "Redirection"
 ---
