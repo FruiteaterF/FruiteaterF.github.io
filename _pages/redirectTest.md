@@ -1,7 +1,7 @@
 ---
 layout: directory
 title: Test
-permalink: /redirect/redirectTest.md
+permalink:m /redirect.md
 ---
 This is a redirect
 
