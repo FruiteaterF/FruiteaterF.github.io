@@ -1,7 +1,7 @@
 ---
 layout: directory
 title: Test
-permalink: /test.html
+permalink: /pages/
 ---
 This is a redirect
 
