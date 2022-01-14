@@ -5,7 +5,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.md).
-[Link]({{ /_pages/test.md }}{% link path/to/file.md %})
+[Link]({{ "/_pages/test.md" }}{% link path/to/file.md %})
 
 There should be whitespace between paragraphs.
 
