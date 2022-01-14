@@ -1,5 +1,5 @@
 ---
-permalink: /test.md
+permalink: /test/
 layout: page
 title:  test
 ---
