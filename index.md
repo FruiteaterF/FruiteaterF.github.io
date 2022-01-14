@@ -6,7 +6,6 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.md).
 [Link to a page](/_pages/redirectTest.md)
-[Link to a page](/redirect.md/)
 
 There should be whitespace between paragraphs.
 
