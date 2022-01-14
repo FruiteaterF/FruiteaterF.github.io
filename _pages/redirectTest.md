@@ -1,5 +1,5 @@
 ---
-layout: directory
+layout: page
 title: Test
 ---
 This is a redirect
