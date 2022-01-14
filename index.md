@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[click here](/test.html)
+[click here](/test.md)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
