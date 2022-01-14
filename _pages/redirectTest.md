@@ -5,4 +5,4 @@ permalink: /pages/test/
 ---
 This is a redirect
 
-[Go back](./)
+[Go back](./index.md)
