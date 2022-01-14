@@ -8,3 +8,7 @@ pages: ./_static_pages
 include:- _pages
 plugins:
   - jekyll-relative-links
+collections:
+  my_collection:
+    output: true
+    permalink: /:collection/:name/
