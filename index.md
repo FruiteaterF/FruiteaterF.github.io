@@ -5,7 +5,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.md).
-[Link test](/test/).
+[Link test]({{site.baseurl}}/pages/test.md/)
 
 
 There should be whitespace between paragraphs.
