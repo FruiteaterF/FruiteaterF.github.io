@@ -4,6 +4,7 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 permalink: pretty
+permalink: "/:title:output_ext"
 collections:
   _pages:
     output: true
