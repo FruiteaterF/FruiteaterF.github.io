@@ -1,5 +1,5 @@
 ---
-permalink: "/test/"
+permalink: /test/
 layout: page
 title:  "Redirection"
 ---
