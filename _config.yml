@@ -9,3 +9,11 @@ collections:
     output: true
     include:
   - _pages
+defaults:
+  -
+    scope:
+      type: pages
+      path: _pages
+    values:
+      is_post: false
+      layout: default
