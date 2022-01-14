@@ -1,7 +1,7 @@
 ---
 permalink: /test.md
 layout: page
-title:  "Redirection"
+title:  test
 ---
 This is a redirect
 
