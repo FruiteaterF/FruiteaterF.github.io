@@ -7,8 +7,7 @@ permalink: pretty
 collections:
   _pages:
     output: true
-    include:
-  - _pages
+include: [_pages]
 defaults:
   -
     scope:
