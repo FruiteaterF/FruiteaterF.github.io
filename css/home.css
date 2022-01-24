@@ -7,7 +7,7 @@ body{
 
 .header{
   background-color: hsla(0, 0%, 9%, 0.77);
-  border: 2px solid black;
+  border: 1rem solid black;
   color:#FFFFFF;
   font-size: 30;
   padding: 0;
