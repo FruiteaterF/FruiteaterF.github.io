@@ -7,6 +7,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 [Link to another page](./another-page.md)
 [Link to a page](/_pages/redirectTest.md)
 [Go to "contentpage"](/_pages/AK.md)
+[![Arknights](/images/AK_ICO.JPG)](/images/AK_ICO.JPG)
 
 [//]: # (This may be the most platform independent comment
 There should be whitespace between paragraphs.
