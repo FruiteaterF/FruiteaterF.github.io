@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: default
 title: Test
-permalink: /page1/
+permalink: /AK/
 ---
 There is no content here yet
 
