@@ -1,24 +1,49 @@
-/*body{
-  background-image: url(https://aceship.github.io/AN-EN-Tags/img/avg/backgrounds/bg_aerialview.png);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-}
-*/
-
-.header{
-  background-color: hsla(0, 0%, 9%, 0.77);
-  border: 1rem solid black;
-  color:#FFFFFF;
-  font-size: 30;
-  padding: 0;
-  text-align: center;
+body {
+	background-image: url(https://aceship.github.io/AN-EN-Tags/img/avg/backgrounds/bg_aerialview.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
 }
 
-ul1{
-  font-size: 20px;
-  list-style-type: none;
-  margin: 0;
-  padding: 10px;
-  text-align: right;
+.header {
+	background-color: hsla(0, 0%, 9%, 0.77);
+	border: 1rem solid black;
+	color: #FFFFFF;
+	font-size: 30;
+	padding: 0;
+	text-align: center;
+}
+
+.ak_box,
+.al_box {
+	height: 100px;
+	position: relative;
+	display: table-cell;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40em;
+	text-align: center;
+}
+
+.ak_box {
+	background: #00FFFF;
+}
+
+.al_box {
+	background: #10F00F
+	/*hide the inputs/checkmarks and submenu*/
+	input,
+	ul.submenu {
+		display: none;
+	}
+	/*position the label*/
+	label {
+		position: relative;
+		display: block;
+		cursor: pointer;
+	}
+	/*show the submenu when input is checked*/
+	input:checked~ul.submenu {
+		display: block;
+	}
 }
