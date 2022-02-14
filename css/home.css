@@ -58,8 +58,14 @@ word-break: break-word;
 overflow: hidden;
 }
 
-//*
-
+/*.dropdown{
+  border: 3px solid blue;
+  display: grid;
+  font-size: 16pt;
+  grid-column: 20% 20% 20% 20% 20%;
+  grid-row: 20% 20% 20% 20% 20%;
+}
+*/
 .sidebar {
   background: yellow;
      border: 3px solid green;
@@ -71,4 +77,3 @@ overflow: hidden;
      font-size: 16pt;
      overflow: hidden;
 }
-*//
