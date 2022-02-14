@@ -37,8 +37,8 @@ word-break: break-word;
 .footer{
 border: 3px solid red;
 display: grid;
-grid-template-columns: 33% 34% 33%;
-grid-template-rows: 33% 34% 33%;
+grid-template-columns: subgrid;
+grid-template-rows: subgrid;
 text-align: center;
 font-size: 20pt;
 padding:2pt;
