@@ -94,7 +94,7 @@ overflow: hidden;
       display: flex;
       padding: 12px 16px;
       text-decoration: none;
-      overflow: auto;
+      overflow: hidden;
   }
 
   .dropdown-content a:hover {
@@ -102,7 +102,7 @@ overflow: hidden;
   }
 
   .show {
-      display: block;
+      display:  grid;
   }
 
 .sidebar {
