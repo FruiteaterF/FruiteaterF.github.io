@@ -66,11 +66,12 @@ overflow: hidden;
     grid-area: 2 / 1 / span 2 / span 1;
     grid-column: 1;
     flex-basis: 0;
-    width: 20vw;
+    width: 25vw;
     word-wrap: break-word;
     white-space: pre-wrap;
     word-break: break-word;
     overflow: auto;
+    text-align: left;
 }/drpbtn new/
 
 *.dropdown{
@@ -114,7 +115,7 @@ overflow: hidden;
      grid-row: 2 / span 4;
      grid-template-columns: subgrid;
      height: 100vh;
-     width: 20vw;
+     width: 25vw;
      font-size: 16pt;
      overflow: hidden;
 }
