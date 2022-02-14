@@ -45,9 +45,7 @@ word-break: break-word;
 .footer{
 border: 3px solid red;
 display: grid;
-grid-template-columns: subgrid;
-grid-template-rows: subgrid;
-grid-area: footer / footer / footer / footer
+grid-area: 5 / 1 / span 5 / span 5
 text-align: center;
 font-size: 20pt;
 padding:2pt;
