@@ -31,7 +31,8 @@ text-align: center;
 .dropdown{
   border: 3px solid blue;
   display: grid;
-  grid-column: 20% 20% 20% 20% 20%
+  grid-column: 20% 20% 20% 20% 20%;
+  grid-row: auto;
 }
 
 .container {
