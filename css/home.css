@@ -80,6 +80,9 @@ overflow: hidden;
   flex-direction: inherit;
   justify-content: space-between;
   position: absolute; /*new lines from flex-direction*/
+  word-wrap: break-word;
+  white-space: pre-wrap;
+  word-break: break-word;
 }
 .dropdown-content {
     background-color: #f1f1f1;
