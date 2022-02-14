@@ -74,7 +74,6 @@ overflow: hidden;
      grid-row: 2 / span 4;
      grid-template-columns: subgrid;
      height: 100vh;
-     width: 30vh;
      font-size: 16pt;
      overflow: hidden;
 }
