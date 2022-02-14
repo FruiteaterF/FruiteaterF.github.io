@@ -27,8 +27,6 @@ body{
   grid-template-areas: "header header header"
                         "sidebar content content"
                         "footer footer footer";
-    grid-template-columns: 15% 20% 20% 20% 25%;
-    grid-template-rows: 7% 20% 20% 20% 25%;
     height: 100vw;
     text-align: center;
     width: 100vw;
