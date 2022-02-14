@@ -34,6 +34,7 @@ border: 3px solid red;
 display: grid;
 grid-template-columns: 33% 34% 33%;
 grid-template-rows: 33% 34% 33%;
+grid-area: "header";
 text-align: center;
 font-size: 20pt;
 padding:2pt;
@@ -70,5 +71,6 @@ word-break: break-word;
      grid-row: 2 / span 4;
      grid-template-columns: subgrid;
      height: 100vh;
+     width: 30vh;
      font-size: 16pt;
 }
