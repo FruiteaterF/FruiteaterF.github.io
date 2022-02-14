@@ -31,7 +31,7 @@
 .header{
 border: 3px solid red;
 display: grid;
-grid-template-columns: 33.3% 33.4% 33.3
+grid-template-columns: 12.5% 25% 25% 25% 12.5%
 }
 
 .container {
