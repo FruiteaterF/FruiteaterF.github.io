@@ -34,6 +34,7 @@ font-size: 20pt;
   display: grid;
   grid-column: 20% 20% 20% 20% 20%;
   grid-row: 20% 20% 20% 20% 20%;
+  font-size: 16pt;
 }
 
 .sidebar {
@@ -44,4 +45,5 @@ font-size: 20pt;
      grid-row: 2 / span 4;
      grid-template-columns: subgrid;
      height: 100vh;
+     font-size: 16pt;
 }
