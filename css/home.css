@@ -24,9 +24,9 @@
 body{
   border: 3px solid blue;
   display: grid;
-  grid-template-areas: "header header header"
-                        "sidebar content content"
-                        "footer footer footer";
+  grid-template-areas: "header"
+                        "content"
+                        "footer";
 }
 
 .header{
@@ -45,8 +45,7 @@ word-break: break-word;
 .footer{
 border: 3px solid red;
 display: grid;
-grid-area: 5 / 1 / span 5 / span 5
-text-align: center;
+grid-area: "footer";
 font-size: 20pt;
 padding:2pt;
 margin: 1pt;
