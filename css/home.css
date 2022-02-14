@@ -71,11 +71,6 @@ overflow: hidden;
     text-align: center;
 }/drpbtn new/
 
-.dropbtn:hover,
-.dropbtn:focus {
-    background-color: #808080;
-}
-
 *.dropdown{
   border: 3px solid blue;
   display: grid;
