@@ -42,7 +42,9 @@ margin: 1pt;
 word-wrap: break-word;
 white-space: pre-wrap;
 word-break: break-word;
+overflow:hidden;
 }
+
 .footer{
 border: 3px solid red;
 display: grid;
@@ -53,6 +55,7 @@ margin: 1pt;
 word-wrap: break-word;
 white-space: pre-wrap;
 word-break: break-word;
+overflow: hidden;
 }
 
 .dropdown{
@@ -73,4 +76,5 @@ word-break: break-word;
      height: 100vh;
      width: 30vh;
      font-size: 16pt;
+     overflow: hidden;
 }
