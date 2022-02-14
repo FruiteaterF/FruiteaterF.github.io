@@ -28,6 +28,12 @@ grid-template-columns: 12.5% 25% 25% 25% 12.5%;
 text-align: center;
 }
 
+.dropdown{
+  border: 3px solid blue;
+  display: grid;
+  grid-column: 20% 20% 20% 20% 20%
+}
+
 .container {
   display: grid;
   grid-template-columns: 1fr 3fr;
