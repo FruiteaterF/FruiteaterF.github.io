@@ -165,7 +165,7 @@ body { font-family: sans-serif;}
 #content { margin: 50px; }
 a { text-decoration: none; }
 
-.dropdown {
+.dropdown-content {
   background: #fff;
   overflow: hidden;
 
@@ -175,7 +175,7 @@ a { text-decoration: none; }
   color: transparent;
 }
 
-.dropdown:target {
+.dropdown-content:target {
   line-height: 1.5;
   padding-top: 1em;
   padding-bottom: 1em;
