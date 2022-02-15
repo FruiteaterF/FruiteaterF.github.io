@@ -131,7 +131,6 @@ a:visited {
 	overflow: auto;
 	font-size: 16pt;
   width: 25vw;
-  transition: all .5s ease-in-out;
 } /*also new*/
 .dropdown-content a {
 	color: black;
@@ -139,11 +138,11 @@ a:visited {
 	padding: 12px 16px;
 	text-decoration: none;
   margin: 10px;
-  transition: all .5s ease-in-out;
 }
 
 .dropdown-content a:hover {
 	background-color: #ddd;
+  transition: all .5s ease-in-out;
 }
 
 .show {
@@ -162,12 +161,4 @@ a:visited {
 	width: 25vw;
 	font-size: 16pt;
 	overflow: hidden;
-}
-
-
-.dropdown-content a:target {
-  line-height: 1.5;
-  padding-top: 1em;
-  padding-bottom: 1em;
-  color: black;
 }
