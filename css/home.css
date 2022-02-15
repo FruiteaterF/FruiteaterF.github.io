@@ -101,9 +101,6 @@ overflow: hidden;
   width: 25vw;
   justify-content: space-between;
   position: absolute; /*new lines from flex-direction*/
-  word-wrap: break-word;
-  white-space: pre-wrap;
-  word-break: break-word;
   font-size: 16pt;
 }
 .dropdown-content {
