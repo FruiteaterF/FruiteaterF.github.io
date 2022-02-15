@@ -99,6 +99,8 @@ a:visited {
 	overflow: auto;
 	text-align: center;
 	font-size: 26pt;
+  padding-left: 1;
+  padding-right: 1;
 }
 
 .dropbtn:hover,
