@@ -131,7 +131,7 @@ a:visited {
 	overflow: auto;
 	font-size: 16pt;
   width: 25vw;
-} /*also new*/
+}
 .dropdown-content a {
 	color: black;
 	display: flex;
