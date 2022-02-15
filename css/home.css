@@ -93,6 +93,7 @@ overflow: hidden;
     justify-content: center;
     position: relative;
     overflow: auto;
+    font-size: 16pt;
   } /*also new*/
   .dropdown-content a {
       color: black;
