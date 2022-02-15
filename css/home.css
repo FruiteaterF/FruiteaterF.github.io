@@ -139,7 +139,6 @@ a:visited {
 	overflow: auto;
 	font-size: 16pt;
   width: 25vw;
-  animation: animationname 2s linear infinite;
 }
 .dropdown-content a {
 	color: black;
