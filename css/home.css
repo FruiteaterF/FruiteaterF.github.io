@@ -84,14 +84,6 @@ a:visited {
 	overflow: hidden;
 }
 
-@keyframes animationname{
-  0%{
-    transform: translateX(10px);
-  }
-  100%{
-    transform: translateX(-10px);
-  }
-
 .dropbtn {
 	background-color: black;
   border-bottom-style: solid 1px black;
@@ -169,3 +161,12 @@ a:visited {
 	font-size: 16pt;
 	overflow: hidden;
 }
+//*
+@keyframes animationname{
+  0%{
+    transform: translateX(10px);
+  }
+  100%{
+    transform: translateX(-10px);
+  }
+  *//
