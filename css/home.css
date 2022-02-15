@@ -165,7 +165,7 @@ body { font-family: sans-serif;}
 #content { margin: 50px; }
 a { text-decoration: none; }
 
-.dropdown-content:active {
+.dropdown-content:target {
   line-height: 1.5;
   padding-top: 1em;
   padding-bottom: 1em;
