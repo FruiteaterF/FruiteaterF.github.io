@@ -84,6 +84,14 @@ a:visited {
 	overflow: hidden;
 }
 
+@keyframes animationname{
+  0%{
+    transform: translateX(10px);
+  }
+  100%{
+    transform: translateX(-10px);
+  }
+
 .dropbtn {
 	background-color: black;
   border-bottom-style: solid 1px black;
@@ -131,6 +139,7 @@ a:visited {
 	overflow: auto;
 	font-size: 16pt;
   width: 25vw;
+  animation: animationname 2s linear infinite;
 }
 .dropdown-content a {
 	color: black;
@@ -138,6 +147,7 @@ a:visited {
 	padding: 12px 16px;
 	text-decoration: none;
   margin: 10px;
+  animation: animationname 2s linear infinite;
 }
 
 .dropdown-content a:hover {
