@@ -126,7 +126,7 @@ overflow: hidden;
 
   .show {
       display:  block;
-      position:absolute;
+      position: relative;
   }
 
 .sidebar {
