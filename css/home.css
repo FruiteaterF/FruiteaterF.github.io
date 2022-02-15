@@ -30,8 +30,16 @@ body{
   background-color: grey;
 }
 
-header:visited {
-  color: green;
+a:link{
+  color:white;
+}
+
+a:hover {
+  color: blue;
+}
+
+a:visited{
+  color:white;
 }
 
 .header{
