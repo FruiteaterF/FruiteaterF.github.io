@@ -95,11 +95,11 @@ a:visited {
 	grid-column: 1 / 2;
 	flex-basis: 0;
 	width: 25vw;
-  position: absolute;
+  position: relative;
 	overflow: auto;
 	text-align: center;
 	font-size: 26pt;
-}/drpbtn new/
+}
 
 .dropbtn:hover,
 .dropbtn:focus {
