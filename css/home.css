@@ -142,7 +142,6 @@ a:visited {
 
 .dropdown-content a:hover {
 	background-color: #ddd;
-  transition: all .5s ease-in-out;
 }
 
 .show {
