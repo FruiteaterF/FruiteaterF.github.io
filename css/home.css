@@ -158,4 +158,5 @@ a:visited {
 	width: 25vw;
 	font-size: 16pt;
 	overflow: hidden;
+  opacity: 0.5;
 }
