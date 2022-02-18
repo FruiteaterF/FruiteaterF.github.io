@@ -168,7 +168,19 @@ a:visited {
   overflow: hidden;
 }
 
-.sidebar:hover {
+.sidebar:hover .dropbtn{
+  background-color: rgba(10, 10, 10, 0.5);
+  grid-area: 2 / 1 / span 4 / span 3;
+  grid-column: 1;
+  grid-row: 2 / span 4;
+  grid-template-columns: subgrid;
+  height: 100vh;
+  width: 25vw;
+  font-size: 16pt;
+  overflow: hidden;
+}
+
+.dropbtn:hover .sidebar{
   background-color: rgba(10, 10, 10, 0.5);
   grid-area: 2 / 1 / span 4 / span 3;
   grid-column: 1;
