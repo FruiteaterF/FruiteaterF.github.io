@@ -17,3 +17,21 @@ window.onclick = function(event) {
         }
     }
 }
+
+function myFunction() {
+    document.getElementById("mySidebar").classList.toggle("show");
+}
+
+// Close the dropdown menu if the user clicks outside of it
+window.onclick = function(event) {
+    if (!event.target.matches('.sidebtn')) {
+        var dropdowns = document.getElementsByClassName("sidebar-content");
+        var i;
+        for (i = 0; i < dropdowns.length; i++) {
+            var openDropdown = dropdowns[i];
+            if (openDropdown.classList.contains('show')) {
+                openDropdown.classList.remove('show');
+            }
+        }
+    }
+}
