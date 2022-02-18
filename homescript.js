@@ -17,7 +17,3 @@ window.onclick = function(event) {
         }
     }
 }
-
-function myFunction() {
-    document.getElementById("mySidebar").classList.toggle("show");
-}
