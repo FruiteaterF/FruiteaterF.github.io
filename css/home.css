@@ -110,7 +110,7 @@ a:visited {
 .dropbtn:hover,
 .dropbtn:focus {
   background-color: #808080;
-  width: 25vw;
+  width: inherit;
 }
 
 *.dropdown {
