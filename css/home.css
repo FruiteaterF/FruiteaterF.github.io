@@ -170,15 +170,23 @@ a:visited {
 }
 
 .sidebar:hover .dropbtn{
-  background-color: rgba(10, 10, 10, 0.5);
-  grid-area: 2 / 1 / span 4 / span 3;
-  grid-column: 1;
-  grid-row: 2 / span 4;
-  grid-template-columns: subgrid;
-  height: 100vh;
-  width: 25vw;
-  font-size: 16pt;
-  overflow: hidden;
+	background-color: black;
+	  border-bottom-style: solid 1px black;
+		display: inline-block;
+		color: white;
+		cursor: pointer;
+		font-size: 16px;
+		grid-area: 2 / 1 / span 2 / span 1;
+		grid-column: 1 / 2;
+		flex-basis: 0;
+		width: 5vw;
+	  position: relative;
+		overflow: auto;
+		text-align: center;
+		font-size: 26pt;
+	  padding-left: 1;
+	  padding-right: 1;
+
 }
 
 .dropbtn:hover .sidebar{
