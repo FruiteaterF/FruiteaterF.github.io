@@ -98,7 +98,7 @@ a:visited {
   grid-area: 2 / 1 / span 2 / span 1;
   grid-column: 1 / 2;
   flex-basis: 0;
-  width: 5vw;
+  width: inherit ;
   position: relative;
   overflow: auto;
   text-align: center;
