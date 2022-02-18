@@ -162,8 +162,8 @@ a:visited {
 	font-size: 16pt;
 	overflow: hidden;
 }
-
-.sidebar:target {
+//*replace hover with target when anchor is ready to deploy*//
+.sidebar:hover {
 	background-color: rgba(10, 10, 10, 0.5);
 	grid-area: 2 / 1 / span 4 / span 3;
 	grid-column: 1;
