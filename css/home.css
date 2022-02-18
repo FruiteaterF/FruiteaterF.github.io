@@ -159,7 +159,7 @@ a:visited {
 	grid-row: 2 / span 4;
 	grid-template-columns: subgrid;
 	height: 100vh;
-	width: 20vw;
+	width: 5vw;
 	font-size: 16pt;
 	overflow: hidden;
 }
