@@ -74,6 +74,7 @@ a:visited {
   color: 	white;
   position: sticky;
   top: 0;
+  z-index:10
 }
 
 .footer {
