@@ -4,7 +4,7 @@
 
 [class*="col-"] {
   float: left;
-  padding: 15px;
+  /*padding: 15px;*/
 
   .col-1 {
     width: 25%;
@@ -103,8 +103,8 @@ a:visited {
   overflow: auto;
   text-align: center;
   font-size: 26pt;
-  padding-left: 1;
-  padding-right: 1;
+  /*padding-left: 1;
+  padding-right: 1;*/
 }
 
 .dropbtn:hover,
@@ -116,7 +116,7 @@ a:visited {
 *.dropdown {
   display: inline-grid;
   margin: 0;
-  padding: 0px 4px 0px 0px;
+  /*padding: 0px 4px 0px 0px;*/
   font-size: 16pt;
   grid-column: 20% 20% 20% 20% 20%;
   grid-row: 20% 20% 20% 20% 20%;
@@ -141,7 +141,7 @@ a:visited {
 .dropdown-content a {
   color: black;
   display: flex;
-  padding: 12px 16px;
+  /*padding: 12px 16px;*/
   text-decoration: none;
   /*margin: 10px;*/
 }
