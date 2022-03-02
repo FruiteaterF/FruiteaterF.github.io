@@ -41,6 +41,7 @@ body {
     "content"
     "footer";
   background-color: grey;
+  margin: 0px;
 }
 
 a:link {
