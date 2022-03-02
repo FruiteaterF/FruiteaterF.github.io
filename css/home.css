@@ -80,8 +80,8 @@ a:visited {
   display: grid;
   grid-area: "footer";
   font-size: 20pt;
-  padding: 2pt;
-  margin: 1pt;
+  /*padding: 2pt;
+  margin: 1pt;*/
   word-wrap: break-word;
   white-space: pre-wrap;
   word-break: break-word;
