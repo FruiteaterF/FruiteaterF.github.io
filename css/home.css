@@ -121,6 +121,8 @@ a:visited {
 *.dropdown {
   display: inline-grid;
   margin: 0;
+  background-color: black;
+  color:white;
   padding: 0px 4px 0px 0px;
   font-size: 16pt;
   grid-column: 20% 20% 20% 20% 20%;
