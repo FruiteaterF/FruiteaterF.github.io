@@ -153,11 +153,13 @@ a:visited {
   padding: 12px 16px;
   text-decoration: none;
   /*margin: 10px;*/
+  z-index:10;
 }
 
 .dropdown-content a:hover {
   background-color: #808080;
 	width: inherit;
+  z-index:10;
 }
 
 .show {
