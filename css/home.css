@@ -97,7 +97,7 @@ a:visited {
   background-color: black;
   /*border-bottom-style: solid 1px black;*/
   display: inline-block;
-  color: white;
+  color: #0000ff;
   cursor: pointer;
   font-size: 16px;
   grid-area: 2 / 1 / span 2 / span 1;
@@ -198,6 +198,7 @@ a:visited {
   padding: 3px;
 }
 .right {
+  color:white;
   transform: rotate(-45deg);
   -webkit-transform: rotate(-45deg);
 }
