@@ -116,6 +116,7 @@ a:visited {
 .dropbtn:focus {
   background-color: #808080;
   width: inherit;
+  color: white;
 }
 
 *.dropdown {
