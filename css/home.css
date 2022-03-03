@@ -116,7 +116,6 @@ a:visited {
 .dropbtn:focus {
   background-color: #808080;
   width: inherit;
-  max-height: 5vh;
 }
 
 *.dropdown {
@@ -160,7 +159,6 @@ a:visited {
 .dropdown-content a:hover {
   background-color: #808080;
 	width: inherit;
-  z-index:10;
 }
 
 .show {
